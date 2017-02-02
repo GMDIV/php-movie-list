@@ -2,38 +2,48 @@
     "movies": [
         {
             "title": "Your Highness",
+            "movieLink": "http://www.imdb.com/title/tt1240982/?ref_=nm_flmg_act_26",
             "year": "2011",
             "genre": "Comedy",
             "role": "Thadeous",
+            "directorLink": "http://www.imdb.com/name/nm0337773/?ref_=tt_ov_dr",
             "director": "David Gordon Green"
         },
         {
             "title": "Superbad",
+            "movieLink": "http://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_38",
             "year": "2007",
             "genre": "Comedy",
             "role": "Buddy at Party",
+            "directorLink": "http://www.imdb.com/name/nm0609549/?ref_=tt_ov_dr",
             "director": "Greg Mottola"
         },
         {
             "title": "Tropic Thunder",
+            "movieLink": "http://www.imdb.com/title/tt0942385/?ref_=nm_flmg_act_34",
             "year": "2008",
             "genre": "Comedy",
             "role": "Cody",
+            "directorLink": "http://www.imdb.com/name/nm0001774/?ref_=tt_ov_dr",
             "director": "Ben Stiller"
         },
         {
             "title": "Pineapple Express",
+            "movieLink": "http://www.imdb.com/title/tt0910936/?ref_=nm_flmg_act_35",
             "year": "2008",
             "genre": "Comedy",
             "role": "Red",
+            "directorLink": "http://www.imdb.com/name/nm0337773/?ref_=tt_ov_dr",
             "director": "David Gordon Green"
         },
         {
             "title": "This is the End",
+            "movieLink": "http://www.imdb.com/title/tt1245492/?ref_=nm_flmg_act_18",
             "year": "2013",
             "genre": "Comedy",
             "role": "Danny McBride (himself)",
-            "director": "Evan Goldberg and Seth Rogen"
+            "directorLink": "http://www.imdb.com/name/nm0736622/?ref_=tt_ov_dr",
+            "director": "Seth Rogen"
         }
     ]
 }
