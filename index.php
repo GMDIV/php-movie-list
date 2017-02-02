@@ -17,13 +17,14 @@ $json = json_decode($jsondata, true);
 </head>
 <body>
 	<div id="container">
-	<h1>Various Movies</h1>
+	<h1>Various Danny McBride Movies</h1>
 		<ul>
 			<?php 
 				foreach($json['movies'] as $key  => $value){
-					echo '<h4>'.$value['title'].'</h4>';
+					echo '<h4 ><a href="$value['movieLink']">'.$value['title'].'</a></h4>';
 					echo '<li>Year: '.$value['year'].'</li>';
 					echo '<li>Genre: '.$value['genre'].'</li>';
+					echo '<li>Role: '.$value['role'].'</li>';
 					echo '<li>Director: '.$value['director'].'</li>'; 
 				}
 			?>

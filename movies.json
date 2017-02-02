@@ -1,34 +1,39 @@
 {
     "movies": [
         {
-            "title": "The Godfather",
-            "year": "1972",
-            "genre": "Drama",
-            "director": "Francis Ford Copolla"
+            "title": "Your Highness",
+            "year": "2011",
+            "genre": "Comedy",
+            "role": "Thadeous",
+            "director": "David Gordon Green"
         },
         {
             "title": "Superbad",
             "year": "2007",
             "genre": "Comedy",
+            "role": "Buddy at Party",
             "director": "Greg Mottola"
         },
         {
-            "title": "The Departed",
-            "year": "2006",
-            "genre": "Drama",
-            "director": "Martin Scorsese"
+            "title": "Tropic Thunder",
+            "year": "2008",
+            "genre": "Comedy",
+            "role": "Cody",
+            "director": "Ben Stiller"
         },
         {
-            "title": "Saving Private Ryan",
-            "year": "1998",
-            "genre": "Action",
-            "director": "Steven Spielberg"
+            "title": "Pineapple Express",
+            "year": "2008",
+            "genre": "Comedy",
+            "role": "Red",
+            "director": "David Gordon Green"
         },
         {
-            "title": "The Expendables",
-            "year": "2010",
-            "genre": "Action",
-            "director": "Sylvester Stallone"
+            "title": "This is the End",
+            "year": "2013",
+            "genre": "Comedy",
+            "role": "Danny McBride (himself)",
+            "director": "Evan Goldberg and Seth Rogen"
         }
     ]
 }
